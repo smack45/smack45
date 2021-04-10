@@ -1,4 +1,6 @@
 ### Hey Guys 👋
+ياخشىمۇسىز ، ياقتۇرۇشىڭىزنى ئۈمىد قىلىمەن ...
+
 <!--
 **smack45/smack45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
