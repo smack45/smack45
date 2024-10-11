@@ -1,6 +1,4 @@
-###   Olá pessoal 👋
-###  O meu nome é Rodrigo e sempre tive gosto na programação. Irei deixar alguns projetos feitos por mim. Comecei a bastante pouco tempo ainda estou a aprender porque ninguem nasce ensinado.
-## Espero que gostem
+###   SUPP
 
 
 <!--
