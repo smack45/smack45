@@ -1,8 +1,8 @@
-Hi, I'm Rodrigo Rodrigues 
+## Hi, I'm Rodrigo Rodrigues 
 
 🎓 Computer Engineering Student
 
-About Me
+## About Me
 
 I am a Computer Engineering student with a strong interest in Cybersecurity, Networking, and Software Development. I enjoy building practical projects to improve my technical skills and gain hands-on experience with real-world technologies.
 
